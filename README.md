@@ -5,6 +5,7 @@
 <https://gist.github.com/troynt/205106>
 
 `dvorak.ahk`は通常のdvorak配列です。  
+`dvorak_lp.ahk`はlとpを入れ替えています。  
 `dvorak_shortcut.ahk`ではCtrl Alt Win Ctrl-Shiftキーを押している間はQWERTYに戻るようにしてショートカットを扱いやすくしています。  
 `dvorak_shortcut_lp.ahk`では上記のショートカットに加え、lとpを入れ替えています。  
 
