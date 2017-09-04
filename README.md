@@ -11,3 +11,4 @@
 `dvorak_shortcut_ck.ahk`では上記のショートカットに加え、cとkを入れ替えています。  
 
 DvorakJPに関してはGoogleIMEを使う方法をおすすめします。
+<https://github.com/shinespark/dvorakjp-romantable>
