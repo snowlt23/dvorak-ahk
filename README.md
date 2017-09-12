@@ -5,7 +5,7 @@
 <https://gist.github.com/troynt/205106>
 
 `dvorak.ahk`によりDovrak配列が有効化できます。  
-`caps_special.ahk`はCapslockを使って打ちにくい特殊記号を打ちやすいようになります。  
+`caps_special.ahk`はCapslockとホームポジションのキーで特殊記号を打てるようにしています。  
 `normal_shortcut.ahk`は特殊キー(Ctrlなど)を押している際にQWERTYに戻ります。  
 `ctsp_ime.ahk`はCtrl+Spaceによる日本語IME切り替え用です。  
 
