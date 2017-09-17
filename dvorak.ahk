@@ -1,5 +1,8 @@
 
-;----------------- QWERTY to Dvorak mapping
+sc03A::
+  Suspend
+  SoundPlay *64
+return
 
 -::[
 =::]
